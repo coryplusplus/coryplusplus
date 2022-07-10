@@ -9,9 +9,9 @@
 
 - 👨‍💻 All of my projects are available at [github.com/Coryplusplus](github.com/Coryplusplus)
 
-- 🦆 Check out my version of DuckHunt written solely in Java at [github.com/Coryplusplus/DuckHunt](github.com/Coryplusplus/DuckHunt)
+- 🦆 Check out my version of DuckHunt written solely in Java at <a href="https://github.com/Coryplusplus/DuckHunt" target="blank">(github.com/Coryplusplus/DuckHunt)</a>
 
-- 🃏 Need some help with interview prep - Check out sorting algorithms in java here [github.com/Coryplusplus/Sorting](github.com/Coryplusplus/Sorting)
+- 🃏 Need some help with interview prep - Check out sorting algorithms in java at <a href="https://github.com/Coryplusplus/Sorting" target="blank">(github.com/Coryplusplus/Sorting)</a>
 
 - 📫 How to reach me **coryplusplus@gmail.com**
 
