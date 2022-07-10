@@ -1,4 +1,4 @@
-![](https://github.com/Coryplusplus/Coryplusplus/blob/main/Blog%20Banner%20for%20GitHub.png)
+![](https://github.com/Coryplusplus/Coryplusplus/blob/main/austin_dev_1.jpeg)
 <h1 align="center">Hi 👋, I'm Cory Kelly</h1>
 <h3 align="center">A thoughtful enterprise architect and transformational life coach with a passion for people and technology, loves</h3>
 <img align=“right” alt+”Coding” width=“400” src=“https://cdn.dribbble.com/users/1894420/screenshots/14032021/media/a85f637f1eb4cd5efdd307f9760472a1.gif”>
