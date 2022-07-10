@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coryplusplus&label=Profile%20views&color=0e75b6&style=flat" alt="coryplusplus" /> </p>
 
-- 🌱 I'm currently working to use my 10+ years working in tech as a software developer all the way to enterprise architect, my experience as a hiring manager giving over 100+ interviews, along with my transformational life coaching diploma to create a unique, inspirational, and helpful space for aspiring technologists.
+- 🌱 I'm currently working to use my 10+ years working in tech as a software developer all the way to enterprise architect, my experience as a hiring manager giving over 100+ interviews, along with my transformational life coaching diploma to create a unique, inspirational, and helpful space for aspiring technologists. You can come grow with us <a href="https://facebook.com/groups/transitioningintotech" target="blank">here</a>
 
 - 👨‍💻 All of my projects are available at [github.com/Coryplusplus](github.com/Coryplusplus)
 
@@ -14,7 +14,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/@coryplusplus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@coryplusplus" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/corykelly1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="coryplusplus" height="30" width="40" /></a>
 <a href="https://facebook.com/groups/transitioningintotech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="coryplusplus livingston" height="30" width="40" /></a>
 </p>
