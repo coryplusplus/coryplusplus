@@ -21,6 +21,7 @@
 <a href="https://linkedin.com/in/corykelly1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="coryplusplus" height="30" width="40" /></a>
 <a href="https://facebook.com/groups/transitioningintotech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UC19OPwtBMD-bxI1jLml_lAQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="30" width="40" /></a>
+ <a href="[https://www.youtube.com/channel/UC19OPwtBMD-bxI1jLml_lAQ](https://open.spotify.com/show/4qQABpy7jSciTABkCNn9nu?si=abb6139bf5034138)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg" alt="spotify" height="30" width="40" /></a>
 
 </p>
 
